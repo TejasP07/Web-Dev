@@ -32,8 +32,21 @@
               .navbar {
                      padding: 0 0 4.5rem;
               }
+              
+              .btn1 {
+                     margin: 0% 10% 0% 35%;
+                     font-family: monospace;
+              }
 
 
+              .btn2{
+                   
+                      margin-left: 150px;
+
+              }
+              .btn3{
+                     padding-left: 40px;
+              }
 
               .nav-link {
                      font-size: 1.2rem;
@@ -89,10 +102,7 @@
                      margin: 3%;
               }
 
-              .btn1 {
-                     margin: 0% 10% 0% 35%;
-                     font-family: monospace;
-              }
+              
 
               .bgcol {
                      background-color: #171717;
